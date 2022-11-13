@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    background-color: white;
+}
+div h4{
+    font-size: 18px;
+}
+/* first section */
+.section-one{
+    color: green;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 60%;
+    font-size: 14px;
+    font-family: Arial;
+    margin: 10px;
+}
+/* second section */
+.section-two{
+    color: red;
+    border: 1px solid navy;
+    width: 60%;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 14px;
+    font-family: Verdana;
+    margin: 10px;
+}
+/* third section */
+.section-three{
+    color: blue;
+    border: 1px solid gray;
+    border-radius: 8px;
+    width: 60%;
+    padding: 12px;
+    font-size: 14px;
+    font-family: sans-serif;
+    margin: 10px;
+}
